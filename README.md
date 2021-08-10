@@ -1,3 +1,5 @@
+# ⚠️  DEPRECATED - use [nix-gaming](https://github.com/fufexan/nix-gaming) instead
+
 # osu.nix
 
 [osu!](https://osu.ppy.sh)-related stuff for Nix and NixOS. Easily install
@@ -10,8 +12,6 @@ Package              | Description
 `osu-stable`         | Default package
 `winestreamproxy`    | Wine-Discord RPC
 `wine-tkg`           | Wine optimized for games
-`discord-ipc-bridge` | Older RPC
-`wine-osu`           | Older Wine with osu-only patches
 
 `osu-stable` provides a script that installs/runs osu! automatically, in
 addition to a desktop entry.
